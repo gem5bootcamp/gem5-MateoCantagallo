@@ -1,3 +1,5 @@
+Mateo Cantagallo mateocantagallo@gmail.com
+
 ## Data of 100 runs:
 
 Numbers of threads 16
